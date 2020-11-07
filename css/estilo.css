@@ -1,0 +1,49 @@
+html{
+scroll-behavior: smooth;
+}
+.texto{
+	text-align: center;
+}
+
+.fundo2{
+background-color: rgba(255, 255, 255, 0.1);
+}
+
+.decorr{
+	color: #fff ;
+	/* text-shadow: 1px 1px #D3D3D3;*/
+	padding: 1%;
+	background-color:  #F53646c4 !important;
+    border-radius: 30px;
+}
+.gradiante{
+	background-image: url("../img/back.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+.linha{
+	background-repeat: no-repeat;
+	width: 100%;
+	height: auto;
+}
+.naoentra{
+	margin-top: 6.45%;
+}
+.fundo{
+	background-color:  #F53646c4 !important;
+    border-radius: 20px;
+}
+.parapara{
+padding-left: 20%;
+padding-right: 20%
+}
+
+.fundoDestaque{
+	background-image: url("img/back.png");
+	background-repeat: no-repeat;
+	width: 100%;
+	height: auto;
+}
+
